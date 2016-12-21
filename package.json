@@ -1,0 +1,19 @@
+{
+  "name": "socket.io-browsers",
+  "version": "1.0.0",
+  "description": "A reusable list of browsers to test when using defunctzombie/zuul",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darrachequesne/socket.io-browsers.git"
+  },
+  "author": "Damien Arrachequesne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darrachequesne/socket.io-browsers/issues"
+  },
+  "homepage": "https://github.com/darrachequesne/socket.io-browsers#readme",
+  "files": [
+    "index.js"
+  ]
+}
