@@ -9,7 +9,7 @@ module.exports = {
       version: 'latest'
     }, {
       name: 'internet explorer',
-      version: '6..11'
+      version: '8..11'
     }, {
       name: 'safari',
       version: 'latest'
