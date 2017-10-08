@@ -1,6 +1,6 @@
 {
   "name": "socket.io-browsers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A reusable list of browsers to test when using defunctzombie/zuul",
   "main": "index.js",
   "repository": {
