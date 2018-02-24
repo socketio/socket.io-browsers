@@ -18,7 +18,8 @@ module.exports = {
       version: '-2..latest'
     }, {
       name: 'android',
-      version: '-2..latest'
+      version: '-2..latest',
+      platform: 'Android'
     }, {
       name: 'ipad',
       version: '-2..latest'
@@ -39,7 +40,8 @@ module.exports = {
       version: 'latest'
     }, {
       name: 'android',
-      version: 'latest'
+      version: 'latest',
+      platform: 'Android'
     }
   ]
 };
