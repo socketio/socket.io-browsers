@@ -18,13 +18,12 @@ module.exports = {
       version: '-2..latest'
     }, {
       name: 'android',
-      version: '-2..latest',
-      platform: 'Android'
+      version: '5.1..6.0'
     }, {
       name: 'ipad',
       version: '-2..latest'
     }, {
-      name: 'microsoftedge',
+      name: 'MicrosoftEdge',
       version: 'latest'
     }
   ],
@@ -40,8 +39,7 @@ module.exports = {
       version: 'latest'
     }, {
       name: 'android',
-      version: 'latest',
-      platform: 'Android'
+      version: '6.0'
     }
   ]
 };
